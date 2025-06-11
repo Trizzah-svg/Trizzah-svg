@@ -1,49 +1,51 @@
+## Welcome to my GitHub profile
 
-<h1 align="center">Hi 👋, I'm Teresia Njoki</h1>
-<h3 align="center">A passionate Data Analyst/Data Scientist from Kenya.</h3>
+![Hello,i'am Teresia Njoki](https://github.com/user-attachments/assets/8263cc17-3e10-44ce-bcbe-394ab08e5372)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trizzah-svg&label=Profile%20views&color=0e75b6&style=flat" alt="trizzah-svg" /> </p>
+                                                       (Open for Opportunities)
+### Contact Info
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trizzah-svg" alt="trizzah-svg" /></a> </p>
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](sam12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/samkemboi12/samkemboi12)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/SamEssays)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samwel-kipkemboi-32a8732a6/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourhandle)
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+### About
+I am a highly resourceful data scientist skilled in Python, SQL, data analysis, and machine learning, with a strong focus on turning data into actionable insights. I have worked on  impactful projects applying frameworks like CRISP-DM to deliver results.I am Passionate about problem-solving and continuous learning. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
+## Tech Stack
+- Python, SQL, Pandas, scikit-learn,  Matplotlib, Seaborn, tableau
+- Machine Learning, Power BI, Excel
+- Git & GitHub,  Jupyter Notebook, VS Code, Google Colab
+## Skills                                                                                                
+* *Data Analysis & Visualization*                                                                                                                                                                              
+* *Machine Learning Engineer*
+* *Data Engineering*
+* *Data Scraping*
+* *Competencies and Transferable Skills*
 
-- 👨‍💻 All of my projects are available at [https://datascienceportfol.io/trizahnjoki58](https://datascienceportfol.io/trizahnjoki58)
+## Some Featured Projects
+Below are some but a few projects ;
 
-- 💬 Ask me about **Data Analysis and Data Science.**
+###  [Health Insurance Cross-Sell Prediction](https://github.com/samkemboi12/Insurance-Cross-Sell-Prediction)
+A machine learning model that predicts which customers are likely to buy additional insurance products.                                                                                                         
+*Tech Stack*: Python, Pandas, Scikit-learn, XGBoost, Tableau                                                                                                                                                       
+*Highlights*: Exploratory Data Analysis, Model Evaluation, Feature Engineering                                                                                                                               
 
-- 📫 How to reach me **trizahnjoki58@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ teresia-njoki-a601a3169](www.linkedin.com/in/ teresia-njoki-a601a3169)
+### [Box Office Movie Success Predictor](https://github.com/samkemboi12/Box-Office-Analysis)
 
-- ⚡ Fun fact **I cycle for fun**
+ This project offers data-driven insights to help Microsoft launch a movie studio by identifying the most successful film types and genres based on ratings and box office returns.                               
+*Tech Stack*: Python, Pandas, Seaborn, Linear Regression                                                                                                                                                                                                                                                                                              
+*Highlights* : Data-Driven Decision Making, Business Insights                                                                                                                                           
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/teresia njoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teresia njoki" height="30" width="40" /></a>
-<a href="https://kaggle.com/teresia njoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="teresia njoki" height="30" width="40" /></a>
-</p>
+###  [Aviation Risk Analysis](https://github.com/samkemboi12/Aviation-Risk-Project)
+Analyzed 88,000 + aviation records to identify accident risk factors and recommend safer aircraft for purchase.  
+*Tech Stack*: Python, Pandas, Matplotlib, Seaborn                                                                                                                                                           
+*Highlights*: Data Cleaning, Visualization, Data, analysis
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trizzah-svg&show_icons=true&locale=en&layout=compact" alt="trizzah-svg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trizzah-svg&show_icons=true&locale=en" alt="trizzah-svg" /></p>
 
-<!--
-**Trizzah-svg/Trizzah-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
