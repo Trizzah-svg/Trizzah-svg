@@ -67,6 +67,12 @@ Analyzed 88,000 + aviation records to identify accident risk factors and recomme
 *Highlights*: Data Cleaning, Visualization, Data, analysis
 
 ---
+### 🌍 Languages
+- English (Fluent)
+- Kiswahili (Native)
+- French (Conversational)
+
+
 
 
 
