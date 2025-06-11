@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](teresianjoki818@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Trizzah-svg)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/Triksy_mwihaki?t=NVMtgVMAkZlxQnEMYuyYhQ&s=09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/teresia-njoki-a601a3169/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/teresia-njoki-a601a3169/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://www.datascienceportfol.io/trizahnjoki58)
 
 
