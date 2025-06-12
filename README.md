@@ -50,8 +50,8 @@ If you're looking for someone who’s data-driven, detail-oriented, and always l
 Below are some but a few projects ;
 
 ###  [Health Insurance Prediction](https://github.com/Trizzah-svg/Health_Insuarance_Predictions.git)
-A machine learning model that predicts which customers are likely to buy additional insurance products.                                                                                                         
-*Tech Stack*: Python, Pandas, Scikit-learn, XGBoost, Tableau                                                                                                                                                       
+Developing a machine learning model to identify health insuarance customers likely to be interested in vehicle insuarance by leveraging on existing customer data.                                                                                                         
+*Tech Stack*: Python, Pandas, Scikit-learn, Decision tree, Matplotlib                                                                                                                                                       
 *Highlights*: Exploratory Data Analysis, Model Evaluation, Feature Engineering                                                                                                                               
 
 
