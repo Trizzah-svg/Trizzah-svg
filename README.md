@@ -1,9 +1,6 @@
 ## Welcome to my GitHub profile
-<img width="599" alt="Github banner" src="https://github.com/user-attachments/assets/261f0b5c-9cec-4e98-8ac8-a3ac98443b24" />
-
-
-
-                                                       (Open for Opportunities)
+![bannerboy](https://github.com/user-attachments/assets/ae22181d-f6f3-4a43-afb5-de13aa0a646f)
+                                            (Open for Opportunities)
 ### Contact Info
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teresianjoki818@gmail.com)
